@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+google-cloud-storage
+pillow
+python-multipart
+moondream
+requests
+python-dotenv 

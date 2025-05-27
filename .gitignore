@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# IDEs
+.vscode/
+.idea/
+
+# Others
+*.db
+*.sqlite3
+service-account-file.json 
