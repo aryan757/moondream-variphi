@@ -38,6 +38,15 @@
 
 3. Visit [http://localhost:8000](http://localhost:8000) to check if the API is running.
 
+### Docker Compose
+
+1. Build and start the app using Docker Compose:
+   ```sh
+   docker-compose up --build
+   ```
+
+2. The API will be available at [http://localhost:8000](http://localhost:8000)
+
 ### Git Workflow
 
 1. Initialize git and add your remote (if not already done):
